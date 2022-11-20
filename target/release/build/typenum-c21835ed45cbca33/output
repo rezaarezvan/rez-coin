@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=C:\Users\Reza\Desktop\ric-coin\target\release\build\typenum-c21835ed45cbca33\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=C:\Users\Reza\Desktop\ric-coin\target\release\build\typenum-c21835ed45cbca33\out\op.rs

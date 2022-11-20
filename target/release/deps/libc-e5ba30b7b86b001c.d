@@ -1,0 +1,12 @@
+C:\Users\Reza\Desktop\ric-coin\target\release\deps\libc-e5ba30b7b86b001c.rmeta: C:\Users\Reza\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.137\src\lib.rs C:\Users\Reza\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.137\src\macros.rs C:\Users\Reza\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.137\src\fixed_width_ints.rs C:\Users\Reza\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.137\src\windows\mod.rs C:\Users\Reza\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.137\src\windows\gnu\mod.rs C:\Users\Reza\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.137\src\windows\gnu\align.rs
+
+C:\Users\Reza\Desktop\ric-coin\target\release\deps\liblibc-e5ba30b7b86b001c.rlib: C:\Users\Reza\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.137\src\lib.rs C:\Users\Reza\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.137\src\macros.rs C:\Users\Reza\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.137\src\fixed_width_ints.rs C:\Users\Reza\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.137\src\windows\mod.rs C:\Users\Reza\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.137\src\windows\gnu\mod.rs C:\Users\Reza\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.137\src\windows\gnu\align.rs
+
+C:\Users\Reza\Desktop\ric-coin\target\release\deps\libc-e5ba30b7b86b001c.d: C:\Users\Reza\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.137\src\lib.rs C:\Users\Reza\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.137\src\macros.rs C:\Users\Reza\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.137\src\fixed_width_ints.rs C:\Users\Reza\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.137\src\windows\mod.rs C:\Users\Reza\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.137\src\windows\gnu\mod.rs C:\Users\Reza\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.137\src\windows\gnu\align.rs
+
+C:\Users\Reza\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.137\src\lib.rs:
+C:\Users\Reza\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.137\src\macros.rs:
+C:\Users\Reza\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.137\src\fixed_width_ints.rs:
+C:\Users\Reza\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.137\src\windows\mod.rs:
+C:\Users\Reza\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.137\src\windows\gnu\mod.rs:
+C:\Users\Reza\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.137\src\windows\gnu\align.rs:

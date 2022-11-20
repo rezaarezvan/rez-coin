@@ -1,0 +1,1 @@
+C:\Users\Reza\Desktop\ric-coin\target\release\ricoin.exe: C:\Users\Reza\Desktop\ric-coin\src\blockchain.rs C:\Users\Reza\Desktop\ric-coin\src\keygenerator.rs C:\Users\Reza\Desktop\ric-coin\src\main.rs
